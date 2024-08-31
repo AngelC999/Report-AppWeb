@@ -162,8 +162,18 @@ Bienvenido, gracias por brindarnos esta entrevista. (empieza con las preguntas g
 ## 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ## 2.3.1. User Personas.
+
+![](assets\chapter02\Miguel.png)
+
+![](assets\chapter02\Javier.png)
+
 ## 2.3.2. User Task Matrix.
 ## 2.3.3. User Journey Mapping.
+
+![](assets\chapter02\journeyMapMiguel.png)
+
+![](assets\chapter02\journeyMapJavier.png)
+
 ## 2.3.4. Empathy Mapping.
 ## 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language.
